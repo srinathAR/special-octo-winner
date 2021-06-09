@@ -1,2 +1,2 @@
 # special-octo-winner
-3D football model
+Web based AR (Augmented Reality) developer
